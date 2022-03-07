@@ -1,0 +1,71 @@
+body{
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+h1 {  
+    margin-top: 180px;
+    color:  goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+#start-game {
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#new-card {
+    margin-top: 9px;
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#start-game:hover {
+    color: #016f32;
+    width: 150px;
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: 600;
+    border-width: 3px;  
+    border-color: black;
+    border-style: solid;
+    border-radius: 2px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#new-card:hover {
+    color: #016f32;
+    width: 150px;
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: 600;
+    border-width: 3px;  
+    border-color: black;
+    border-style: solid;
+    border-radius: 2px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
